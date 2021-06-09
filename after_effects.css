@@ -1,0 +1,46 @@
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Margaret';
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 90px;
+    width: 60px;
+    transform: rotate(-90deg);
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 0px;
+    white-space: nowrap;
+}
+
+video {
+    width: 40%;
+    padding: 5%;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+}
+
+.texte1,
+.texte2,
+.texte3 {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 10px;
+}
+
+.video1,
+.video2,
+.video3 {
+    text-align: center;
+    display: block;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float: center;
+}
